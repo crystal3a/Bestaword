@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bestaword</string>
+    <string name="speak_please">請說話</string>
+    <string name="query_button">查詢</string>
+</resources>
